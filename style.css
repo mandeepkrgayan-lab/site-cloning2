@@ -1,0 +1,268 @@
+/*  Center Point Restaurant  */
+
+.restaurant{
+    border: 1px solid lightgray;
+    width: 500px;
+    border-radius: 18px;
+    padding: 15px;
+    margin: 100px auto;
+}
+
+.food1{
+    width: 100%;
+    border-radius: 20px;
+    
+    
+}
+.max-safety{
+    height: 25px;
+    width: auto;
+}
+.restaurant-para{
+    margin: 0px 10px;
+    font-family: 'Noto Sans', sans-serif ;
+    font-size: 19px;
+    color: rgb(95,99,104);
+}
+.restaurant-light{
+    font-family: 'Noto Sans', sans-serif ;
+    font-size: 19px;
+    color: rgb(95,99,104);
+    margin-top: 7px;
+    margin-bottom: 22px;
+}
+
+
+
+.restaurant-bold{
+    font-family:'Noto Sans', sans-serif ;
+    font-weight: 400;
+    margin-top: 7px;
+    margin-bottom: 2px;
+}
+
+.relative1{
+    position: relative;
+}
+
+.Promoted{
+    margin: 10px;
+    position: absolute;
+    font-size: 15px;
+    padding: 3px 5px ;
+    top:5px;
+    left: 5px;
+    border: none;
+    color: rgba(255, 255, 255, 0.528) ;
+    border-radius: 6px;
+    background-color: rgba(111, 109, 109, 0.593);
+}
+
+.OFF50{
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 8px;
+    position: absolute;
+    bottom: 18px;
+    left: 0;
+    color: white;
+    background-color: #2158e2;
+    border: none;
+}
+
+.min38{
+    position: absolute;
+    bottom: 19px ;
+    right: 13px;
+    font-size: 20px;
+    border: none;
+    border-radius: 7px;
+    background-color: white;
+    color: rgba(0, 0, 0, 0.611);
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+
+
+/*  Bali    */
+
+.bali{
+    background-image: url(./woman-walking-kelingking-beach-nusa-penida-island-bali-indonesia-1024x682.jpg);
+    padding-top: 150px;
+    margin: 150px auto;
+    padding-bottom: 100px;
+    width: 700px;
+    border-radius: 14px;
+    text-align: center;
+}
+
+.explore1{
+    color: white;
+    font-family: 'Noto Sans', sans-serif ;
+
+}
+
+.lorem1{
+    color: white;
+    font-family: 'Noto Sans', sans-serif ;
+
+}
+
+.Explore{
+    border: none;
+    border-radius: 22px;
+    color: black;
+    background-color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.zomato{
+    background-image: url(./photo-1606787366850-de6330128bfc.webp);
+    text-align: center;
+    
+    height: 400px;
+}
+
+.zomato-logo{
+    height: 15%;
+    width: 25%;
+    margin-top: 100px;
+
+}
+
+.zomato-para{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    color: white;
+    font-weight: 300;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+    font-size: 34px;
+}
+.searchbar{
+    position: relative;
+    text-align: center;
+}
+.input-location{
+    height: 43px;
+    width: 250px;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border: none;
+    padding-left: 40px;
+    position: absolute;
+    top: 5px;
+    left: 450px;
+    font-family: 'Noto Sans', sans-serif ;
+    font-size: 20px;
+    padding: auto 50px;
+    font-weight: 300;
+}
+
+.location-logo{
+    height: 20px;
+    position: absolute;
+    top: 15px;
+    left: 460px;
+}
+
+.search{
+    height: 20px;
+    position: absolute;
+    top: 17px;
+    left: 710px;
+}
+
+.vertical-line{
+    height: 32px;
+    position: absolute;
+    top: 10px;
+    left: 687px;
+}
+
+.down{
+    height: 20px;
+    position: absolute;
+    top: 15px;
+    left: 670px;
+}
+
+
+.input-search{
+    height: 43px;
+    width: 450px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border: none;
+    padding-left: 60px;
+    position: absolute;
+    top: 5px;
+    left: 701px;
+    font-size: 20px;
+    padding-left: 40px;
+    font-family: 'Noto Sans', sans-serif ;
+    font-weight: 300;
+}
+
+/*  linkedIn        */
+
+.linkedin{
+    margin-top: 300px;
+    margin: 300px auto;
+    text-align: center;
+    align-items: center;
+    border: 1px solid lightgray;
+    height: 400px;
+    width: 600px;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    position: relative;
+    
+}
+
+.profilepic{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 5px solid white;
+    position: absolute;
+    margin-top: 75px ;
+    left: 230px;
+    
+}
+
+.cover{
+    width: 100%;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    height: 150px;
+    
+}
+
+.name-bold{
+    font-family: 'Noto Sans', sans-serif ;
+}
+
+.detail-light{
+    font-family: 'Noto Sans', sans-serif ;
+    color: rgb(95,99,104);
+    font-weight: 400;
+}
+
+.detail{
+    margin-top: 110px;
+    padding-left: 35px;
+    
+    
+}
+
+
+
+
+
